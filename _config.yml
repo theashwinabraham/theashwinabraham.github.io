@@ -3,7 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 
 # Setup
-title:               Ashwin Abraham
+title:               Amit Rajaraman
 tagline:             
 description:         The links below should lead to wherever you want to go, feel free to explore!
 url:                 http://lanyon.getpoole.com
@@ -13,7 +13,7 @@ markdown:            kramdown
 
 # About/contact
 author:
-  name:              Ashwin Abraham
+  name:              Amit Rajaraman
 
 # Custom vars
 version:             1.0.0
@@ -33,13 +33,13 @@ google_analytics: "UA-164224546-1"
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "ashwinabraham@cse.iitb.ac.in"
-  # facebook: amit.rajaraman
-  github: theashwinabraham
+  email: "amit.rajaraman@iitb.ac.in"
+  facebook: amit.rajaraman
+  github: amitrajaraman
 #  twitter: yourname
 #  reddit: yourname
 #  linkedin: yourname
-  # stackexchange: "10918067/amit-rajaraman"
+  stackexchange: "10918067/amit-rajaraman"
 #  spotify: 
 #  telephone: 
 #  steam: 
