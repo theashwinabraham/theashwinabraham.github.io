@@ -15,57 +15,70 @@ Here's a list of courses I took while at IIT Bombay.
 * CS 215: Data Analysis and Interpretation
 * CS 218: Design and Analysis of Algorithms
 * CS 224: Computer Networks
-* CS 226: Digital Logic Design
+<!-- * CS 226: Digital Logic Design -->
 * CS 228: Logic for Computer Science
+* CS 230: Digital Logic Design and Computer Architecture
+* CS 232: Digital Logic Design and Computer Architecture Lab
 * CS 251: Software Systems Lab
 * CS 252: Computer Networks Lab
-* CS 254: Digital Logic Design Lab
+<!-- * CS 254: Digital Logic Design Lab -->
 * CS 293: Data Structures and Algorithms Lab
-* CS 302: Implementation of Programming Languages
-* CS 305: Computer Architecture
+<!-- * CS 302: Implementation of Programming Languages -->
+<!-- * CS 305: Computer Architecture -->
 * CS 310: Automata Theory
-* CS 316: Implementation of Programming Languages Lab
-* CS 317: Database and Information Systems
+<!-- * CS 316: Implementation of Programming Languages Lab -->
+<!-- * CS 317: Database and Information Systems -->
 * CS 333: Operating Systems Lab
 * CS 335: Artificial Intelligence and Machine Learning Lab
 * CS 337: Artificial Intelligence and Machine Learning
-* CS 341: Computer Architecture Lab
+<!-- * CS 341: Computer Architecture Lab -->
 * CS 347: Operating Systems
-* CS 387: Database and Information Systems Lab
+<!-- * CS 387: Database and Information Systems Lab -->
+* CS 396: Seminar Course on Markov Decision Processes as Distribution Transformers: Safety Objectives
+* CS 490: Research & Development Project on Formal Verification
 * CS 6001: Game Theory and Algorithmic Mechanism Design
-* CS 713: Special Topics in Automata and Logics
-* CS 759: Perfect Matchings: Algorithms and Complexity
-* CS 761: Derandomization and Pseudorandomness
-* CS 767: Theoretical Machine Learning
-* CS 779: Extremal Combinatorics
+* CS 602: Applied Algorithms
+<!-- * CS 713: Special Topics in Automata and Logics -->
+* CS 747: Foundations of Intelligent and Learning Agents
+<!-- * CS 759: Perfect Matchings: Algorithms and Complexity -->
+<!-- * CS 761: Derandomization and Pseudorandomness -->
+<!-- * CS 767: Theoretical Machine Learning -->
+<!-- * CS 779: Extremal Combinatorics -->
 
 ### Department of Mathematics
 
-* MA 105: Calculus
+* MA 109: Calculus I
+* MA 111: Calculus II
 * MA 106: Linear Algebra
-* MA 214: Numerical Analysis
-* MA 403: Real Analysis
-* MA 406: General Topology
-* MA 412: Complex Analysis
-* MA 5109: Graph Theory
-* MA 833: Weak Convergence and Martingale Theory
-* MA 842: Topics in Algebra II
-* MA 861: Combinatorics I
-* MA 862: Combinatorics II
+* MA 108: Differential Equations
+<!-- * MA 214: Numerical Analysis -->
+<!-- * MA 403: Real Analysis -->
+<!-- * MA 406: General Topology -->
+<!-- * MA 412: Complex Analysis -->
+<!-- * MA 5109: Graph Theory -->
+<!-- * MA 833: Weak Convergence and Martingale Theory -->
+<!-- * MA 842: Topics in Algebra II -->
+<!-- * MA 861: Combinatorics I -->
+<!-- * MA 862: Combinatorics II -->
 
-### Miscellaneous
+### Department of Physics
 
-* PH 107: Quantum Physics and Application
+* PH 107: Quantum Physics and Applications
 * PH 108: Basics of Electricity & Magnetism
-* PH 117: Physics Lab
-* EE 101: Introduction to Electrical and Electronics Circuits
-* HS 101: Economics
-* HS 200: Environmental Studies
-* HS 301: Philosophy
-* ES 200: Environmental Studies: Science and Engineering
+* PH 534: Quantum Information and Computing
+
+### Miscellaneous Courses
+
+* BB 101: Biology
 * CH 105: Organic & Inorganic Chemistry
 * CH 107: Physical Chemistry
-* CH 117: Chemistry Lab
-* ME 113: Workshop Practice
-* ME 119: Engineering Graphics and Drawing
-* BB 101: Biology
+<!-- * PH 117: Physics Lab -->
+* EE 101: Introduction to Electrical and Electronics Circuits
+* HS 101: Economics
+<!-- * HS 200: Environmental Studies -->
+* HS 301: Philosophy
+* ES 200: Environmental Studies: Science and Engineering
+<!-- * CH 117: Chemistry Lab -->
+<!-- * ME 113: Workshop Practice -->
+* IE 501: Optimization Models
+* ME 119: Engineering Graphics & Drawing
