@@ -34,7 +34,7 @@ Here's a list of courses I took while at IIT Bombay.
 <!-- * CS 341: Computer Architecture Lab -->
 * CS 347: Operating Systems
 <!-- * CS 387: Database and Information Systems Lab -->
-* CS 396: Seminar Course on Markov Decision Processes as Distribution Transformers: Safety Objectives
+* CS 396: Seminar Course on Markov Decision Processes as Distribution Transformers
 * CS 490: Research & Development Project on Formal Verification
 * CS 6001: Game Theory and Algorithmic Mechanism Design
 * CS 602: Applied Algorithms
