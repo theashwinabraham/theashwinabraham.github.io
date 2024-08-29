@@ -3,6 +3,16 @@ layout: page
 title: List of Courses
 ---
 
+Here's a list of courses I have TAed at IIT Bombay.
+
+* CS 228: Logic in Computer Science (TAed twice)
+* CS 208: Automata and Logic
+* CS 310 (M): Theory of Computation
+* CS 230/231: Digital Logic Design and Computer Architecture (along with lab)
+* MA 109: Calculus I
+* MA 111: Calculus II
+* MA 105: Linear Algebra
+
 Here's a list of courses I took while at IIT Bombay.
 
 ### Department of Computer Science
@@ -25,7 +35,10 @@ Here's a list of courses I took while at IIT Bombay.
 * CS 293: Data Structures and Algorithms Lab
 <!-- * CS 302: Implementation of Programming Languages -->
 <!-- * CS 305: Computer Architecture -->
+* CS 302: Implementation of Programming Languages
 * CS 310: Automata Theory
+* CS 316: Implementation of Programming Languages Lab
+* CS 317: Database and Information Systems
 <!-- * CS 316: Implementation of Programming Languages Lab -->
 <!-- * CS 317: Database and Information Systems -->
 * CS 333: Operating Systems Lab
@@ -34,12 +47,19 @@ Here's a list of courses I took while at IIT Bombay.
 <!-- * CS 341: Computer Architecture Lab -->
 * CS 347: Operating Systems
 <!-- * CS 387: Database and Information Systems Lab -->
-* CS 396: Seminar Course on Markov Decision Processes as Distribution Transformers
+* CS 387: Database and Information Systems Lab
+* CS 396: Seminar (Research) Course on MDPs as Distribution Transformers
 * CS 490: Research & Development Project on Formal Verification
+* CS 492: Bachelor's Thesis Project (I) on Transducers
 * CS 6001: Game Theory and Algorithmic Mechanism Design
 * CS 602: Applied Algorithms
+* CS 694: Seminar (Research) Course on MDPs as Distribution Transformers
 <!-- * CS 713: Special Topics in Automata and Logics -->
 * CS 747: Foundations of Intelligent and Learning Agents
+* CS 760: Topics in Computational Complexity
+* CS 779: Extremal Combinatorics
+* CS 786: Randomized Algorithms
+* CS 788: Algebraic Automata Theory
 <!-- * CS 759: Perfect Matchings: Algorithms and Complexity -->
 <!-- * CS 761: Derandomization and Pseudorandomness -->
 <!-- * CS 767: Theoretical Machine Learning -->
@@ -51,10 +71,11 @@ Here's a list of courses I took while at IIT Bombay.
 * MA 111: Calculus II
 * MA 106: Linear Algebra
 * MA 108: Differential Equations
-<!-- * MA 214: Numerical Analysis -->
-<!-- * MA 403: Real Analysis -->
+* MA 214: Numerical Analysis
+* MA 403 (M): Real Analysis
 <!-- * MA 406: General Topology -->
-<!-- * MA 412: Complex Analysis -->
+* MA 412 (M): Complex Analysis
+* MA 419: Basic Algebra
 <!-- * MA 5109: Graph Theory -->
 <!-- * MA 833: Weak Convergence and Martingale Theory -->
 <!-- * MA 842: Topics in Algebra II -->
@@ -74,10 +95,10 @@ Here's a list of courses I took while at IIT Bombay.
 * CH 107: Physical Chemistry
 <!-- * PH 117: Physics Lab -->
 * EE 101: Introduction to Electrical and Electronics Circuits
-* HS 101: Economics
-<!-- * HS 200: Environmental Studies -->
-* HS 301: Philosophy
 * ES 200: Environmental Studies: Science and Engineering
+* HS 101: Economics
+* HS 200: Environmental Studies
+* HS 301: Philosophy
 <!-- * CH 117: Chemistry Lab -->
 <!-- * ME 113: Workshop Practice -->
 * IE 501: Optimization Models
